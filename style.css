@@ -1,0 +1,34 @@
+body{
+    background-image: url(Papel-de-parede.jpg);
+
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+    background-size: cover;
+}
+.pecuaria{
+    width: 50%;
+}
+.pecuaria extensiva e intensiva {
+    width: 50%;
+}
+.gado {
+    width: 50%;
+}
+.boiada {
+    width: 50%;
+}
+.vaca{
+    width: 50%;
+}
+body{
+    text-align: center;
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-size: 150%;
+ }
+ 
